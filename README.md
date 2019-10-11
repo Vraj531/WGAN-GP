@@ -2,7 +2,7 @@
 Wasserstein Generative Adversial Network Gradient Penalty
 
 # Collaborator
-Prayushi Mathur, Vraj Patel
+Vraj Patel, Prayushi Mathur
 
 This repository contains the files related to the latest generative network, WGAN-GP. The data used was self-generated.
 
